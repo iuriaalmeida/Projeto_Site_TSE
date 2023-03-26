@@ -2,7 +2,7 @@
 
 Live demo: [Clique Aqui](https://iuriaalmeida.github.io/Projeto_Site_TSE/).
 
-In this project, a website was developed for the **Electoral Justice TSE**.
+In this project, carried out at the IT Technician of the Senac Institution, a demo site was developed for the **TSE of Electoral Justice**.
 
 To reach the final result, I used HTML, CSS, Bootstrap and JavaScript.
 
